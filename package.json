@@ -1,0 +1,23 @@
+{
+  "name": "template-sejarah-dokumenter",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "studio": "remotion studio",
+    "render": "remotion render SejarahRengasdengklok out/video.mp4",
+    "still": "remotion still SejarahRengasdengklok out/still.png --frame=120",
+    "cek": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.536",
+    "@remotion/google-fonts": "4.0.536",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "remotion": "4.0.536"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.0",
+    "typescript": "^5.6.3"
+  }
+}
