@@ -2,7 +2,7 @@
   "name": "template-sejarah-dokumenter",
   "version": "1.0.0",
   "private": true,
-  "license": "MIT",
+  "license": "SEE LICENSE IN LICENSE",
   "scripts": {
     "studio": "remotion studio",
     "render": "remotion render SejarahRengasdengklok out/video.mp4",

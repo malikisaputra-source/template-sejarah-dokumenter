@@ -23,3 +23,8 @@ Template oleh Maliki Saputra (@malikisaputra). Gratis dipakai dan diubah, kredit
 - Foto tokoh asli: arsip publik Wikimedia Commons (domain publik; foto Hatta 1950 CC BY 4.0), direstorasi. Badan penuh & suasana = ilustrasi AI — beri label "ilustrasi AI" di video.
 - Riset fakta dari buku & jurnal, bukan hanya berita. Sumber cerita ini: Sejarah Nasional Indonesia VI (via Setneg), memoar Hatta & Soebardjo, Anderson (1972), Kahin (1952), Han Bing Siong (BKI 2000), Febrianti (JEJAK 2024).
 - Jangan tampilkan tokoh nyata melakukan/berkata hal yang tidak tercatat sejarah.
+
+---
+<!-- kredit-maliki -->
+**Kredit:** Template oleh Maliki Saputra (@malikisaputra) — https://malikisaputra.biz.id.
+**Lisensi Nonkomersial Maliki Studio:** gratis untuk belajar & usaha/organisasi sendiri. Dilarang dijual, dijual ulang, atau dipakai untuk jasa berbayar. Kredit wajib dipertahankan. Lihat `LICENSE`.
